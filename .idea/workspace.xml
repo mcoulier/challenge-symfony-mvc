@@ -11,9 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f09b7b87-918f-429c-a479-e90f8722722c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Controller/LearningController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/learning/about-me.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/learning/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +151,7 @@
       <updated>1604660632275</updated>
       <workItem from="1604660638461" duration="550000" />
       <workItem from="1604661810411" duration="483000" />
-      <workItem from="1604667441913" duration="289000" />
+      <workItem from="1604667441913" duration="754000" />
     </task>
     <servers />
   </component>
